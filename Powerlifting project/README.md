@@ -1,1 +1,1 @@
-Powerlifting database exploration and cleaning for further analysis using pandas in Python
+Powerlifting database exploration and cleaning trying to find correlations between different attributes in Python
